@@ -66,7 +66,7 @@
 1. **Secure Multi-party Computation of Differentially Private Median**
 *Jonas Böhler, Florian Kerschbaum.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/boehler)
 
-### Multi-party Computation
+### Private Set Intersection
 
 1. **Practical Multi-Party Private Set Intersection Protocols**
 *Aslí Bay, Zekeriya Erkin, Jaap-Henk Hoepman, Simona Samardjiska, Jelle Vos.* IEEE Trans. Inf. Forensics Secur. 17: 1-15, 2022. [paper](https://doi.org/10.1109/TIFS.2021.3118879)
