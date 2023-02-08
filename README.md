@@ -66,6 +66,29 @@
 1. **Secure Multi-party Computation of Differentially Private Median**
 *Jonas Böhler, Florian Kerschbaum.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/boehler)
 
+### Multi-party Computation
+
+1. **Practical Multi-Party Private Set Intersection Protocols**
+*Aslí Bay, Zekeriya Erkin, Jaap-Henk Hoepman, Simona Samardjiska, Jelle Vos.* IEEE Trans. Inf. Forensics Secur. 17: 1-15, 2022. [paper](https://doi.org/10.1109/TIFS.2021.3118879)
+
+1. **Differentially Private Set Intersection for Asymmetrical ID Alignment**
+*Yuanyuan He, Xinyu Tan, Jianbing Ni, Laurence T. Yang, Xianjun Deng.* IEEE Trans. Inf. Forensics Secur. 17: 3479-3494, 2022. [paper](https://doi.org/10.1109/TIFS.2022.3207911)
+
+1. **Federated K-Private Set Intersection**
+*Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr.* CIKM, 2022. [paper](https://doi.org/10.1145/3511808.3557321)
+
+1. **Laconic Private Set-Intersection From Pairings**
+*Diego F. Aranha, Chuanwei Lin, Claudio Orlandi, Mark Simkin.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560642)
+
+1. **Structure-Aware Private Set Intersection, with Applications to Fuzzy Matching**
+*Gayathri Garimella, Mike Rosulek, Jaspal Singh.* CRYPTO, 2022. [paper](https://doi.org/10.1007/978-3-031-15802-5_12)
+
+1. **Simple, Fast Malicious Multiparty Private Set Intersection**
+*Ofri Nevo, Ni Trieu, Avishay Yanai.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484772)
+
+1. **Compact and Malicious Private Set Intersection for Small Sets**
+*Mike Rosulek, Ni Trieu.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484778)
+
 ### Differential Privacy
 
 1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys**
@@ -73,9 +96,6 @@
 
 1. **PrivSyn: Differentially Private Data Synthesis**
 *Zhikun Zhang, Tianhao Wang, Ninghui Li, Jean Honorio, Michael Backes, Shibo He, Jiming Chen, Yang Zhang.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zhikun)
-
-1. **Estimating Numerical Distributions under Local Differential Privacy**
-*Zitao Li, Tianhao Wang, Milan Lopuhaä-Zwakenberg, Ninghui Li, Boris Skoric.* SIGMOD Conference, 2020. [paper](https://doi.org/10.1145/3318464.3389700)
 
 1. **Towards Effective Differential Privacy Communication for Users' Data Sharing Decision and Comprehension**
 *Aiping Xiong, Tianhao Wang, Ninghui Li, Somesh Jha.* IEEE Symposium on Security and Privacy, 2020. [paper](https://doi.org/10.1109/SP40000.2020.00088)
