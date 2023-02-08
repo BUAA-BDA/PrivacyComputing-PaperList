@@ -12,6 +12,12 @@
 1. **Differential Privacy: From Theory to Practice**
 *Ninghui Li, Min Lyu, Dong Su, Weining Yang.* Synthesis Lectures on Information Security, Privacy, and Trust, Morgan & Claypool Publishers 2016. [book](https://doi.org/10.2200/S00735ED1V01Y201609SPT018)
 
+2. **A Pragmatic Introduction to Secure Multi-Party Computation**
+    *David Evans, Vladimir Kolesnikov, Mike Rosulek.* Foundations and Trends in Privacy and Security 2018. [book](https://ieeexplore.ieee.org/document/8584398)
+
+3. **Introduction to Modern Cryptography**
+    *Jonathan Katz, Yehuda Lindell.* CRC press 2020. [book](https://www.taylorfrancis.com/books/mono/10.1201/9781351133036/introduction-modern-cryptography-yehuda-lindell-jonathan-katz)
+    
 ## Tutorials and Keynotes
 
 ### Differential Privacy
