@@ -1,4 +1,4 @@
-# Recommended Publications for the course of Privacy Computing
+# Recommended Reading List for the Course of Privacy Computing
 
 
 ## Overview
