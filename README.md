@@ -68,9 +68,6 @@
 
 ### Private Set Intersection
 
-1. **Practical Multi-Party Private Set Intersection Protocols**
-*Aslí Bay, Zekeriya Erkin, Jaap-Henk Hoepman, Simona Samardjiska, Jelle Vos.* IEEE Trans. Inf. Forensics Secur. 17: 1-15, 2022. [paper](https://doi.org/10.1109/TIFS.2021.3118879)
-
 1. **Differentially Private Set Intersection for Asymmetrical ID Alignment**
 *Yuanyuan He, Xinyu Tan, Jianbing Ni, Laurence T. Yang, Xianjun Deng.* IEEE Trans. Inf. Forensics Secur. 17: 3479-3494, 2022. [paper](https://doi.org/10.1109/TIFS.2022.3207911)
 
@@ -80,19 +77,16 @@
 1. **Laconic Private Set-Intersection From Pairings**
 *Diego F. Aranha, Chuanwei Lin, Claudio Orlandi, Mark Simkin.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560642)
 
-1. **Structure-Aware Private Set Intersection, with Applications to Fuzzy Matching**
-*Gayathri Garimella, Mike Rosulek, Jaspal Singh.* CRYPTO, 2022. [paper](https://doi.org/10.1007/978-3-031-15802-5_12)
-
 1. **Simple, Fast Malicious Multiparty Private Set Intersection**
 *Ofri Nevo, Ni Trieu, Avishay Yanai.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484772)
 
-1. **Compact and Malicious Private Set Intersection for Small Sets**
-*Mike Rosulek, Ni Trieu.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484778)
+### Anonymization & Differential Privacy
 
-### Differential Privacy
+1. **PrivSyn: Differentially Private Data Synthesis**
+*Takao Murakami, Hiromi Arai, Koki Hamada, Takuma Hatano, Makoto Iguchi, Hiroaki Kikuchi, Atsushi Kuromasa, Hiroshi Nakagawa, Yuichi Nakamura, Kenshiro Nishiyama, Ryo Nojima, Hidenobu Oguri, Chiemi Watanabe, Akira Yamada, Takayasu Yamaguchi, Yuji Yamaoka.* PoPETs, 2023. [paper](https://petsymposium.org/popets/2023/popets-2023-0014.pdf)
 
-1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys**
-*Wei Dong, Juanru Fang, Ke Yi, Yuchao Tao, Ashwin Machanavajjhala.* SIGMOD Conference, 2022. [paper](https://doi.org/10.1145/3514221.3517844)
+1. **SafePub: A Truthful Data Anonymization Algorithm With Strong Privacy Guarantees**
+*Raffael Bild, Klaus A. Kuhn, Fabian Prasser.* PoPETs, 2018. [paper](https://petsymposium.org/popets/2018/popets-2018-0004.pdf)
 
 1. **PrivSyn: Differentially Private Data Synthesis**
 *Zhikun Zhang, Tianhao Wang, Ninghui Li, Jean Honorio, Michael Backes, Shibo He, Jiming Chen, Yang Zhang.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zhikun)
@@ -103,28 +97,16 @@
 1. **DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling**
 *Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang*. CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560562)
 
-1. **Frequency Estimation Under Multiparty Differential Privacy: One-shot and Streaming**
-*Ziyue Huang, Yuan Qiu, Ke Yi, Graham Cormode*. Proc. VLDB Endow. 15(10): 2058-2070, 2022. [paper](https://www.vldb.org/pvldb/vol15/p2058-huang.pdf)
-
 1. **Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
 *Fengmei Jin, Wen Hua, Boyu Ruan, Xiaofang Zhou*. ICDE, 2022. [paper](https://doi.org/10.1109/ICDE53745.2022.00175)
 
-1. **Collecting Geospatial Data with Local Differential Privacy for Personalized Services**
-*Daeyoung Hong, Woohwan Jung, Kyuseok Shim*. ICDE, 2021. [paper](https://doi.org/10.1109/ICDE51399.2021.00230)
-
 ### Data Federation
-
-1. **Hu-Fu: Efficient and Secure Spatial Queries over Data Federation**
-*Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv.* Proc. VLDB Endow. 15(6): 1159-1172, 2022. [paper](https://www.vldb.org/pvldb/vol15/p1159-tong.pdf)
 
 1. **VaultDB: A Real-World Pilot of Secure Multi-Party Computation within a Clinical Research Network**
 *Jennie Rogers, Elizabeth Adetoro, Johes Bater, Talia Canter, Dong Fu, Andrew Hamilton, Amro Hassan, Ashley Martinez, Erick Michalski, Vesna Mitrovic, Fred D. Rachman, Raj C. Shah, Matt Sterling, Kyra VanDoren, Theresa L. Walunas, Xiao Wang, Abel N. Kho.* arXiv, 2022. [paper](https://doi.org/10.48550/arXiv.2203.00146)
 
 1. **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**
 *Johes Bater, Yongjoo Park, Xi He, Xiao Wang, Jennie Rogers.* Proc. VLDB Endow. 13(11): 2691-2705, 2020. [paper](http://www.vldb.org/pvldb/vol13/p2691-bater.pdf)
-
-1. **SMCQL: Secure Query Processing for Private Data Networks**
-*Johes Bater, Gregory Elliott, Craig Eggen, Satyender Goel, Abel N. Kho, Jennie Rogers.* Proc. VLDB Endow. 10(6): 673-684, 2017. [paper](http://www.vldb.org/pvldb/vol10/p673-rogers.pdf)
 
 1. **ShrinkWrap: Efficient SQL Query Processing in Differentially Private Data Federations**
 *Johes Bater, Xi He, William Ehrich, Ashwin Machanavajjhala, Jennie Rogers.* Proc. VLDB Endow. 12(3): 307-320, 2018. [paper](http://www.vldb.org/pvldb/vol12/p307-bater.pdf)
@@ -134,9 +116,6 @@
 
 1. **Querying Shared Data with Security Heterogeneity**
 *Yang Cao, Wenfei Fan, Yanghao Wang, Ke Yi.* SIGMOD Conference, 2020. [paper](https://doi.org/10.1145/3318464.3389784)
-
-1. **FalconDB: Blockchain-based Collaborative Database**
-*Yanqing Peng, Min Du, Feifei Li, Raymond Cheng, Dawn Song.* SIGMOD Conference, 2020. [paper](https://doi.org/10.1145/3318464.3380594)
 
 1. **Cost Effective MLaaS Federation: A Combinatorial Reinforcement Learning Approach**
 *Shuzhao Xie, Yuan Xue, Yifei Zhu, Zhi Wang.* INFOCOM, 2022. [paper](https://doi.org/10.1109/INFOCOM48880.2022.9796701)
