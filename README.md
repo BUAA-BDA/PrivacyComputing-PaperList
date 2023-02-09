@@ -82,7 +82,7 @@
 
 ### Anonymization & Differential Privacy
 
-1. **PrivSyn: Differentially Private Data Synthesis**
+1. **Designing a Location Trace Anonymization Contest**
 *Takao Murakami, Hiromi Arai, Koki Hamada, Takuma Hatano, Makoto Iguchi, Hiroaki Kikuchi, Atsushi Kuromasa, Hiroshi Nakagawa, Yuichi Nakamura, Kenshiro Nishiyama, Ryo Nojima, Hidenobu Oguri, Chiemi Watanabe, Akira Yamada, Takayasu Yamaguchi, Yuji Yamaoka.* PoPETs, 2023. [paper](https://petsymposium.org/popets/2023/popets-2023-0014.pdf)
 
 1. **SafePub: A Truthful Data Anonymization Algorithm With Strong Privacy Guarantees**
