@@ -22,8 +22,6 @@
 
 ###  Federated Learning
 
-[test](./paper/SIGMOD24a.pdf)
-
 #### 1.1 Personalized Federated Learning
 1. **Personalized Federated Learning on Non-IID Data via Group-based Meta-learning** [Paper Link](https://dl.acm.org/doi/10.1145/3558005)
 
