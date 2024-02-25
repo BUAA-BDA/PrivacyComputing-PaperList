@@ -3,9 +3,7 @@
 
 ## Overview
 * [Books](#Books)
-* [Tutorials and Keynotes](#Tutorials-and-Keynotes)
-* [Survey Papers](#Survey-Papers)
-* [Research Papers](#Research-Papers)
+* [Presentation Papers](#Presentation-Papers)
   
 ## Books
 
@@ -18,130 +16,138 @@
 3. **Introduction to Modern Cryptography**
     *Jonathan Katz, Yehuda Lindell.* CRC press 2020. [book](https://www.taylorfrancis.com/books/mono/10.1201/9781351133036/introduction-modern-cryptography-yehuda-lindell-jonathan-katz)
     
-## Tutorials and Keynotes
+
+
+## Presentation Papers
+
+###  Federated Learning
+
+#### 1.1 Personalized Federated Learning
+1. **Personalized Federated Learning on Non-IID Data via Group-based Meta-learning**
+*Lei Yang, Jiaming Huang, Wanyu Lin, Jiannong Cao.* [Paper Link](https://dl.acm.org/doi/10.1145/3558005)
+
+1. **FedALA: Adaptive Local Aggregation for Personalized Federated Learning** [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/26330)
+
+1. **PerFedMask: Personalized Federated Learning with Optimized Masking Vectors** [Paper Link](https://openreview.net/pdf?id=hxEIgUXLFF)
+
+1. **Personalized Federated Learning with Feature Alignment and Classifier Collaboration** [Paper Link](https://openreview.net/pdf?id=SXZr8aDKia)
+
+#### 1.2 Federated Graph Neural Network
+
+1. **Automated Graph Neural Network Search Under Federated Learning Framework** [Paper Link](https://ieeexplore.ieee.org/document/10056291)
+
+1. **Vertical Federated Graph Neural Network for Recommender System** [Paper Link](https://proceedings.mlr.press/v202/mai23b.html)
+
+1. **FedHGN: A Federated Framework for Heterogeneous Graph Neural Networks** [Paper Link](https://www.ijcai.org/proceedings/2023/412)
+
+1. **Vertically Federated Graph Neural Network for Privacy-Preserving Node Classification** [Paper Link](https://www.ijcai.org/proceedings/2022/272)
+
+#### 1.3 Attack/Defense in Federated Learning
+
+1. **FLSG: A Novel Defense Strategy Against Inference Attacks in Vertical Federated Learning** [Paper Link](https://ieeexplore.ieee.org/document/10210670)
+
+1. **Privacy-Enhancing and Robust Backdoor Defense for Federated Learning on Heterogeneous Data** [Paper Link](https://ieeexplore.ieee.org/document/10292713)
+
+1. **Robust and Secure Federated Learning Against Hybrid Attacks: A Generic Architecture** [Paper Link](https://ieeexplore.ieee.org/document/10328586)
+
+1. **Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach** [Paper Link](https://ieeexplore.ieee.org/document/10419367)
+
+### Large Language Model
+
+#### 2.1 Security & Privacy issues in LLM: PART-A
+1. **A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly** [Paper Link](https://arxiv.org/abs/2312.02003)
+
+1. **Security and Privacy Challenges of Large Language Models: A Survey** [Paper Link](https://arxiv.org/abs/2402.00888)
+
+1. **Privacy in Large Language Models: Attacks Defenses and Future Directions** [Paper Link](https://arxiv.org/abs/2310.10383)
+
+1. **LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformer** [Paper Link](https://arxiv.org/abs/2305.18396)
+
+#### 2.2 Security & Privacy issues in LLM: PART-B
+1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** [Paper Link](https://arxiv.org/abs/2310.12214)
+
+1. **SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models** [Paper Link](https://arxiv.org/abs/2401.00793)
+
+1. **PrivateLoRA For Efficient Privacy Preserving LLM** [Paper Link](https://arxiv.org/abs/2311.14030)
+
+1. **Privacy-Preserving Prompt Tuning for Large Language Model Services** [Paper Link](https://arxiv.org/abs/2305.06212)
+
+#### 2.3 Security & Privacy issues in LLM: PART-C
+1. **Just Fine-tune Twice: Selective Differential Privacy for Large Language Models** [Paper Link](https://doi.org/10.18653/v1/2022.emnlp-main.425)
+
+1. **EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy** [Paper Link](https://doi.org/10.1109/ICDMW58026.2022.00078)
+
+1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants**[Paper Link](https://www.usenix.org/conference/usenixsecurity23/presentation/sandoval)
+
+1. **Large Language Models for Code: Security Hardening and Adversarial Testing** [Paper Link](https://doi.org/10.1145/3576915.3623175)
+
+### Privacy-Preserving Data Analytics
+
+#### 3.1 Data Federation
+1. **FedKNN: Secure Federated k-Nearest Neighbor Search** [Paper Link](https://xuc.me/publication/sigmod24/fedknn/)
+
+1. **Hu-Fu: Efficient and Secure Spatial Queries over Data Federation** [Paper Link](https://www.vldb.org/pvldb/vol15/p1159-tong.pdf)
+
+1.**Approximate k-Nearest Neighbor Query over Spatial Data Federation** [Paper Link](https://doi.org/10.1007/978-3-031-30637-2_23)
+
+1. **Efficient and Secure Skyline Queries Over Vertical Data Federation** [Paper Link](https://doi.org/10.1109/TKDE.2022.3222415)
+
+#### 3.2 Private Queries and SMC marry DP
+1. **Longshot: Indexing Growing Databases using MPC and Differential Privacy** [Paper Link](https://www.vldb.org/pvldb/vol16/p2005-zhang.pdf)
+
+1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys** [Paper Link](https://doi.org/10.1145/3604437.3604462)
+
+1. **DPXPlain: Privately Explaining Aggregate Query Answers** [Paper Link](https://www.vldb.org/pvldb/vol16/p113-tao.pdf)
+
+1. **IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy** [Paper Link](https://doi.org/10.1145/3514221.3526151)
 
 ### Differential Privacy
 
-1. **Differential Privacy in the Wild: A Tutorial on Current Practices & Open Challenges**
-*Ashwin Machanavajjhala, Xi He, Michael Hay.* SIGMOD Conference 2017. [paper](https://doi.org/10.1145/3035918.3054779) [slides](http://sigmod2017.org/sigmod-program/#tutorial) [video](http://sigmod2017.org/sigmod-program/#tutorial)
+#### 4.1 Shuffle-model based Differential Privacy
+1. **Collecting and analyzing key-value data under shuffled differential privacy** [Paper Link](https://doi.org/10.1007/s11704-022-1572-0)
 
-1. **Privacy at Scale: Local Differential Privacy in Practice**
-*Graham Cormode, Somesh Jha, Tejas Kulkarni, Ninghui Li, Divesh Srivastava, Tianhao Wang.* SIGMOD Conference 2018. [paper](https://doi.org/10.1145/3183713.3197390) [slides](https://sites.google.com/view/kdd2018-tutorial/home) [video](https://www.bilibili.com/video/BV19b41177Wc/)
- 	
-1. **Practical Security and Privacy for Database Systems**
-*Xi He, Jennie Rogers, Johes Bater, Ashwin Machanavajjhala, Chenghong Wang, Xiao Wang.* SIGMOD Conference 2021. [paper](https://doi.org/10.1145/3448016.3457544) [slides](https://sp-for-dbms.github.io/) [video](https://www.youtube.com/playlist?list=PL_j4gVzfdkXhSaggePxmwmrJFeB2-0ltd)
+1. **Aggregation and Transformation of Vector-Valued Messages in the Shuffle Model of Differential Privacy** [Paper Link](https://doi.org/10.1109/TIFS.2022.3147643)
 
-## Survey Papers
+1. **Shuffled Model of Differential Privacy in Federated Learning** [Paper Link](http://proceedings.mlr.press/v130/girgis21a.html)
 
-### Differential Privacy
+1. **AdaSTopk: Adaptive federated shuffle model based on differential privacy** [Paper Link](https://doi.org/10.1016/j.ins.2023.119186)
 
-1. **A Critical Review on the Use (and Misuse) of Differential Privacy in Machine Learning**
-*Alberto Blanco-Justicia, David Sánchez, Josep Domingo-Ferrer, Krishnamurty Muralidhar.* ACM Comput. Surv. 55(8): 160:1-160:16, 2023. [paper](https://doi.org/10.1145/3547139)
+#### 4.2 Local Differential Privacy
+1. **PPeFL: Privacy-Preserving Edge Federated Learning With Local Differential Privacy** [Paper Link](https://doi.org/10.1109/JIOT.2023.3264259)
 
-1. **Differential Privacy in the Shuffle Model: A Survey of Separations**
-*Albert Cheu.* arXiv, 2021. [paper](https://arxiv.org/abs/2107.11839)
+1. **On the Risks of Collecting Multidimensional Data Under Local Differential Privacy** [Paper Link](https://www.vldb.org/pvldb/vol16/p1126-arcolezi.pdf)
 
-## Research Papers
+1. **Multi-Dimensional Data Publishing With Local Differential Privacy** [Paper Link](https://doi.org/10.48786/edbt.2023.15)
 
-### Multi-party Computation
+1. **Active Membership Inference Attack under Local Differential Privacy in Federated Learning** [Paper Link](https://proceedings.mlr.press/v206/nguyen23e.html)
 
-1. **IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy**
-*Chenghong Wang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala.* SIGMOD Conference, 2022. [paper](https://doi.org/10.1145/3514221.3526151)
+#### 4.3 Differential Privacy Meets Federated Learning
+1. **Differential Privacy in HyperNetworks for Personalized Federated Learning** [Paper Link](https://doi.org/10.1145/3583780.3615203)
 
-1. **pMPL: A Robust Multi-Party Learning Framework with a Privileged Party**
-*Lushan Song, Jiaxuan Wang, Zhexuan Wang, Xinyu Tu, Guopeng Lin, Wenqiang Ruan, Haoqi Wu, Weili Han.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560697)
+1. **Personalized Differentially Private Federated Learning without Exposing Privacy Budgets** [Paper Link](https://doi.org/10.1145/3583780.3615247)
 
-1. **CrypTen: Secure Multi-Party Computation Meets Machine Learning**
-*Brian Knott, Shobha Venkataraman, Awni Y. Hannun, Shubho Sengupta, Mark Ibrahim, Laurens van der Maaten.* NeurIPS, 2021. [paper](https://proceedings.neurips.cc/paper/2021/hash/2754518221cfbc8d25c13a06a4cb8421-Abstract.html)
+1. **Cross-silo Federated Learning with Record-level Personalized Differential Privacy** [Paper Link](https://doi.org/10.48550/arXiv.2401.16251)
 
-1. **Leakage of Dataset Properties in Multi-Party Machine Learning**
-*Wanrong Zhang, Shruti Tople, Olga Ohrimenko.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-wanrong)
+1. **Personalized Federated Learning With Differential Privacy and Convergence Guarantee** [Paper Link](https://doi.org/10.1109/TIFS.2023.3293417)
 
-1. **Cerebro: A Platform for Multi-Party Cryptographic Collaborative Learning**
-*Wenting Zheng, Ryan Deng, Weikeng Chen, Raluca Ada Popa, Aurojit Panda, Ion Stoica.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zheng)
+### Secure Multi-party Computation & Encryption
 
-1. **Secure Multi-party Computation of Differentially Private Heavy Hitters**
-*Jonas Böhler, Florian Kerschbaum.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484557)
+#### 5.1 Private Set Intersection
 
-1. **Secure Multi-party Computation of Differentially Private Median**
-*Jonas Böhler, Florian Kerschbaum.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity20/presentation/boehler)
+1. **Differentially Private Set Intersection for Asymmetrical ID Alignment** [Paper Link](https://doi.org/10.1109/TIFS.2022.3207911)
 
-### Private Set Intersection
+1. **Federated K-Private Set Intersection** [Paper Link](https://doi.org/10.1145/3511808.3557321)
 
-1. **Differentially Private Set Intersection for Asymmetrical ID Alignment**
-*Yuanyuan He, Xinyu Tan, Jianbing Ni, Laurence T. Yang, Xianjun Deng.* IEEE Trans. Inf. Forensics Secur. 17: 3479-3494, 2022. [paper](https://doi.org/10.1109/TIFS.2022.3207911)
+1. **Laconic Private Set-Intersection From Pairings** [Paper Link](https://doi.org/10.1145/3548606.3560642)
 
-1. **Federated K-Private Set Intersection**
-*Ahmed Roushdy Elkordy, Yahya H. Ezzeldin, Salman Avestimehr.* CIKM, 2022. [paper](https://doi.org/10.1145/3511808.3557321)
+1. **Efficient Private Multiset ID Protocols** [Paper Link](https://doi.org/10.1007/978-981-99-7356-9_21)
 
-1. **Laconic Private Set-Intersection From Pairings**
-*Diego F. Aranha, Chuanwei Lin, Claudio Orlandi, Mark Simkin.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560642)
+#### 5.2 Encryption Meets Federated Learning
 
-1. **Simple, Fast Malicious Multiparty Private Set Intersection**
-*Ofri Nevo, Ni Trieu, Avishay Yanai.* CCS, 2021. [paper](https://doi.org/10.1145/3460120.3484772)
+1. **A Multi-Modal Vertical Federated Learning Framework Based on Homomorphic Encryption** [Paper Link](https://doi.org/10.1109/TIFS.2023.3340994)
 
-### Anonymization & Differential Privacy
+1. **Privacy-Preserving Federated Learning via Functional Encryption Revisited** [Paper Link](https://doi.org/10.1109/TIFS.2023.3255171)
 
-1. **Designing a Location Trace Anonymization Contest**
-*Takao Murakami, Hiromi Arai, Koki Hamada, Takuma Hatano, Makoto Iguchi, Hiroaki Kikuchi, Atsushi Kuromasa, Hiroshi Nakagawa, Yuichi Nakamura, Kenshiro Nishiyama, Ryo Nojima, Hidenobu Oguri, Chiemi Watanabe, Akira Yamada, Takayasu Yamaguchi, Yuji Yamaoka.* PoPETs, 2023. [paper](https://petsymposium.org/popets/2023/popets-2023-0014.pdf)
+1. **CryptoFE: Practical and Privacy-Preserving Federated Learning via Functional Encryption** [Paper Link](https://doi.org/10.1109/GLOBECOM48099.2022.10001080)
 
-1. **SafePub: A Truthful Data Anonymization Algorithm With Strong Privacy Guarantees**
-*Raffael Bild, Klaus A. Kuhn, Fabian Prasser.* PoPETs, 2018. [paper](https://petsymposium.org/popets/2018/popets-2018-0004.pdf)
-
-1. **PrivSyn: Differentially Private Data Synthesis**
-*Zhikun Zhang, Tianhao Wang, Ninghui Li, Jean Honorio, Michael Backes, Shibo He, Jiming Chen, Yang Zhang.* USENIX Security Symposium, 2021. [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/zhang-zhikun)
-
-1. **Towards Effective Differential Privacy Communication for Users' Data Sharing Decision and Comprehension**
-*Aiping Xiong, Tianhao Wang, Ninghui Li, Somesh Jha.* IEEE Symposium on Security and Privacy, 2020. [paper](https://doi.org/10.1109/SP40000.2020.00088)
-
-1. **DPIS: An Enhanced Mechanism for Differentially Private SGD with Importance Sampling**
-*Jianxin Wei, Ergute Bao, Xiaokui Xiao, Yin Yang*. CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560562)
-
-1. **Frequency-based Randomization for Guaranteeing Differential Privacy in Spatial Trajectories**
-*Fengmei Jin, Wen Hua, Boyu Ruan, Xiaofang Zhou*. ICDE, 2022. [paper](https://doi.org/10.1109/ICDE53745.2022.00175)
-
-### Data Federation
-
-1. **VaultDB: A Real-World Pilot of Secure Multi-Party Computation within a Clinical Research Network**
-*Jennie Rogers, Elizabeth Adetoro, Johes Bater, Talia Canter, Dong Fu, Andrew Hamilton, Amro Hassan, Ashley Martinez, Erick Michalski, Vesna Mitrovic, Fred D. Rachman, Raj C. Shah, Matt Sterling, Kyra VanDoren, Theresa L. Walunas, Xiao Wang, Abel N. Kho.* arXiv, 2022. [paper](https://doi.org/10.48550/arXiv.2203.00146)
-
-1. **SAQE: Practical Privacy-Preserving Approximate Query Processing for Data Federations**
-*Johes Bater, Yongjoo Park, Xi He, Xiao Wang, Jennie Rogers.* Proc. VLDB Endow. 13(11): 2691-2705, 2020. [paper](http://www.vldb.org/pvldb/vol13/p2691-bater.pdf)
-
-1. **ShrinkWrap: Efficient SQL Query Processing in Differentially Private Data Federations**
-*Johes Bater, Xi He, William Ehrich, Ashwin Machanavajjhala, Jennie Rogers.* Proc. VLDB Endow. 12(3): 307-320, 2018. [paper](http://www.vldb.org/pvldb/vol12/p307-bater.pdf)
-
-1. **Secure Multi-Party Functional Dependency Discovery**
-*Chang Ge, Ihab F. Ilyas, Florian Kerschbaum.* Proc. VLDB Endow. 13(2): 184-196, 2019. [paper](http://www.vldb.org/pvldb/vol13/p184-ge.pdf)
-
-1. **Querying Shared Data with Security Heterogeneity**
-*Yang Cao, Wenfei Fan, Yanghao Wang, Ke Yi.* SIGMOD Conference, 2020. [paper](https://doi.org/10.1145/3318464.3389784)
-
-1. **Cost Effective MLaaS Federation: A Combinatorial Reinforcement Learning Approach**
-*Shuzhao Xie, Yuan Xue, Yifei Zhu, Zhi Wang.* INFOCOM, 2022. [paper](https://doi.org/10.1109/INFOCOM48880.2022.9796701)
-
-### Federated Learning
-
-1. **Differentially Private Vertical Federated Clustering**
-*Zitao Li, Tianhao Wang, Ninghui Li.* arXiv, 2022. [paper](https://doi.org/10.48550/arXiv.2208.01700)
-
-1. **Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy**
-*Ergute Bao, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.* Proc. VLDB Endow. 15(11): 2348-2360, 2022. [paper](https://www.vldb.org/pvldb/vol15/p2348-bao.pdf)
-
-1. **Source Inference Attacks in Federated Learning**
-*Hongsheng Hu, Zoran Salcic, Lichao Sun, Gillian Dobbie, Xuyun Zhang.* ICDM, 2021. [paper](https://doi.org/10.1109/ICDM51629.2021.00129)
-
-1. **FLAME: Differentially Private Federated Learning in the Shuffle Model**
-*Ruixuan Liu, Yang Cao, Hong Chen, Ruoyang Guo, Masatoshi Yoshikawa.* AAAI, 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17053)
-
-1. **Shuffled Model of Differential Privacy in Federated Learning**
-*Antonious M. Girgis, Deepesh Data, Suhas N. Diggavi, Peter Kairouz, Ananda Theertha Suresh.* AISTATS, 2021. [paper](http://proceedings.mlr.press/v130/girgis21a.html)
-
-1. **Federated Boosted Decision Trees with Differential Privacy**
-*Samuel Maddock, Graham Cormode, Tianhao Wang, Carsten Maple, Somesh Jha.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560687)
-
-1. **The Fundamental Price of Secure Aggregation in Differentially Private Federated Learning**
-*Wei-Ning Chen, Christopher A. Choquette-Choo, Peter Kairouz, Ananda Theertha Suresh.* ICML, 2022. [paper](https://proceedings.mlr.press/v162/chen22c.html)
-
-1. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency**
-*Dario Pasquini, Danilo Francati, Giuseppe Ateniese.* CCS, 2022. [paper](https://doi.org/10.1145/3548606.3560557)
+1. **BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning** [Paper Link](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang)
