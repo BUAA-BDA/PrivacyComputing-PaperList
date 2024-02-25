@@ -87,7 +87,7 @@
 
 1. **Hu-Fu: Efficient and Secure Spatial Queries over Data Federation** [Paper Link](https://www.vldb.org/pvldb/vol15/p1159-tong.pdf)
 
-1.**Approximate k-Nearest Neighbor Query over Spatial Data Federation** [Paper Link](https://doi.org/10.1007/978-3-031-30637-2_23)
+1. **Approximate k-Nearest Neighbor Query over Spatial Data Federation** [Paper Link](https://doi.org/10.1007/978-3-031-30637-2_23)
 
 1. **Efficient and Secure Skyline Queries Over Vertical Data Federation** [Paper Link](https://doi.org/10.1109/TKDE.2022.3222415)
 
