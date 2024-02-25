@@ -22,6 +22,8 @@
 
 ###  Federated Learning
 
+[test](./paper/SIGMOD24a.pdf)
+
 #### 1.1 Personalized Federated Learning
 1. **Personalized Federated Learning on Non-IID Data via Group-based Meta-learning** [Paper Link](https://dl.acm.org/doi/10.1145/3558005)
 
@@ -83,7 +85,7 @@
 ### Privacy-Preserving Data Analytics
 
 #### 3.1 Data Federation
-1. **FedKNN: Secure Federated k-Nearest Neighbor Search** [Paper Link](https://xuc.me/publication/sigmod24/fedknn/)
+1. **FedKNN: Secure Federated k-Nearest Neighbor Search** [Paper Link](./paper/SIGMOD24a.pdf)
 
 1. **Hu-Fu: Efficient and Secure Spatial Queries over Data Federation** [Paper Link](https://www.vldb.org/pvldb/vol15/p1159-tong.pdf)
 
