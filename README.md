@@ -23,7 +23,7 @@
 ###  Federated Learning
 
 #### 1.1 Personalized Federated Learning
-1. **Personalized Federated Learning on Non-IID Data via Group-based Meta-learning** [Paper Link](https://dl.acm.org/doi/10.1145/3558005)
+1. **DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization** [Paper Link](https://doi.org/10.1145/3580305.3599311)
 
 1. **FedALA: Adaptive Local Aggregation for Personalized Federated Learning** [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/26330)
 
@@ -89,7 +89,7 @@
 
 1. **Approximate k-Nearest Neighbor Query over Spatial Data Federation** [Paper Link](https://doi.org/10.1007/978-3-031-30637-2_23)
 
-1. **Efficient and Secure Skyline Queries Over Vertical Data Federation** [Paper Link](https://doi.org/10.1109/TKDE.2022.3222415)
+1. **Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to Dispatch** [Paper Link](https://doi.org/10.1145/3534678.3539047)
 
 #### 3.2 Private Queries and SMC marry DP
 1. **Longshot: Indexing Growing Databases using MPC and Differential Privacy** [Paper Link](https://www.vldb.org/pvldb/vol16/p2005-zhang.pdf)
@@ -98,7 +98,7 @@
 
 1. **DPXPlain: Privately Explaining Aggregate Query Answers** [Paper Link](https://www.vldb.org/pvldb/vol16/p113-tao.pdf)
 
-1. **IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy** [Paper Link](https://doi.org/10.1145/3514221.3526151)
+1. **Efficient and Private Federated Trajectory Matching** [Paper Link](https://doi.org/10.48550/arXiv.2312.12012)
 
 ### Differential Privacy
 
@@ -118,7 +118,7 @@
 
 1. **Multi-Dimensional Data Publishing With Local Differential Privacy** [Paper Link](https://doi.org/10.48786/edbt.2023.15)
 
-1. **Active Membership Inference Attack under Local Differential Privacy in Federated Learning** [Paper Link](https://proceedings.mlr.press/v206/nguyen23e.html)
+1. **Federated Latent Dirichlet Allocation: A Local Differential Privacy Based Framework** [Paper Link](https://doi.org/10.1609/aaai.v34i04.6096)
 
 #### 4.3 Differential Privacy Meets Federated Learning
 1. **Differential Privacy in HyperNetworks for Personalized Federated Learning** [Paper Link](https://doi.org/10.1145/3583780.3615203)
