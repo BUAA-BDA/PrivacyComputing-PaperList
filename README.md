@@ -20,7 +20,7 @@
 
 ## Presentation Papers
 
-###  Federated Learning
+###  1. Federated Learning
 
 #### 1.1 Personalized Federated Learning
 1. **DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization** *Wenhao Zhang, Zimu Zhou, Yansheng Wang, Yongxin Tong.* KDD 2023. [Paper Link](https://doi.org/10.1145/3580305.3599311)
@@ -51,7 +51,7 @@
 
 1. **Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach** *Kai Li, Jingjing Zheng, Xin Yuan, Wei Ni, Özgür B. Akan, H. Vincent Poor.* IEEE Trans. Inf. Forensics Secur. [Paper Link](https://ieeexplore.ieee.org/document/10419367)
 
-### Large Language Model
+### 2. Large Language Model
 
 #### 2.1 Security & Privacy issues in LLM: PART-A
 1. **A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly** *Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Eric Sun, Yue Zhang.* CoRR abs/2312.02003 (2023). [Paper Link](https://arxiv.org/abs/2312.02003)
@@ -80,7 +80,7 @@
 
 1. **Large Language Models for Code: Security Hardening and Adversarial Testing** *Jingxuan He, Martin T. Vechev.*  CCS 2023: 1865-1879. [Paper Link](https://doi.org/10.1145/3576915.3623175)
 
-### Privacy-Preserving Data Analytics
+### 3. Privacy-Preserving Data Analytics
 
 #### 3.1 Data Federation
 1. **FedKNN: Secure Federated k-Nearest Neighbor Search** *Xinyi Zhang, Qichen Wang, Cheng Xu, Yun Peng, and Jianliang Xu.* SIGMOD 2024. [Paper Link](./paper/SIGMOD24a.pdf)
@@ -100,7 +100,7 @@
 
 1. **Efficient and Private Federated Trajectory Matching** *Yuxiang Wang, Yuxiang Zeng, Yi Xu, Zimu Zhou, Yongxin Tong.*  CoRR abs/2312.12012 (2023).  [Paper Link](https://doi.org/10.48550/arXiv.2312.12012)
 
-### Differential Privacy
+### 4. Differential Privacy
 
 #### 4.1 Shuffle-model based Differential Privacy
 1. **Collecting and analyzing key-value data under shuffled differential privacy** *Ning Wang, Wei Zheng, Zhigang Wang, Zhiqiang Wei, Yu Gu, Peng Tang, Ge Yu.*  Frontiers Comput. Sci. 17(2): 172606 (2022). [Paper Link](https://doi.org/10.1007/s11704-022-1572-0)
@@ -129,7 +129,7 @@
 
 1. **Personalized Federated Learning With Differential Privacy and Convergence Guarantee** *Kang Wei, Jun Li, Chuan Ma, Ming Ding, Wen Chen, Jun Wu, Meixia Tao, H. Vincent Poor.* IEEE Trans. Inf. Forensics Secur. 18: 4488-4503 (2023). [Paper Link](https://doi.org/10.1109/TIFS.2023.3293417)
 
-### Secure Multi-party Computation & Encryption
+### 5. Secure Multi-party Computation & Encryption
 
 #### 5.1 Private Set Intersection
 
