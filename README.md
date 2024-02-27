@@ -83,7 +83,7 @@
 ### Privacy-Preserving Data Analytics
 
 #### 3.1 Data Federation
-1. **FedKNN: Secure Federated k-Nearest Neighbor Search** *Xinyi Zhang, Qichen Wang, Cheng Xu, Yun Peng, and Jianliang Xu.* SIGMOD 24. [Paper Link](./paper/SIGMOD24a.pdf)
+1. **FedKNN: Secure Federated k-Nearest Neighbor Search** *Xinyi Zhang, Qichen Wang, Cheng Xu, Yun Peng, and Jianliang Xu.* SIGMOD 2024. [Paper Link](./paper/SIGMOD24a.pdf)
 
 1. **Hu-Fu: Efficient and Secure Spatial Queries over Data Federation** *Yongxin Tong, Xuchen Pan, Yuxiang Zeng, Yexuan Shi, Chunbo Xue, Zimu Zhou, Xiaofei Zhang, Lei Chen, Yi Xu, Ke Xu, Weifeng Lv.*  Proc. VLDB Endow. 15(6): 1159-1172 (2022). [Paper Link](https://www.vldb.org/pvldb/vol15/p1159-tong.pdf)
 
@@ -94,7 +94,7 @@
 #### 3.2 Private Queries and SMC marry DP
 1. **Longshot: Indexing Growing Databases using MPC and Differential Privacy** *Yanping Zhang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala.*  Proc. VLDB Endow. 16(8): 2005-2018 (2023). [Paper Link](https://www.vldb.org/pvldb/vol16/p2005-zhang.pdf)
 
-1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys** *Wei Dong, Juanru Fang, Ke Yi, Yuchao Tao, Ashwin Machanavajjhala.* SIGMOD Rec. 52(1): 115-123 (2023). [Paper Link](https://doi.org/10.1145/3604437.3604462)
+1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys** *Wei Dong, Juanru Fang, Ke Yi, Yuchao Tao, Ashwin Machanavajjhala.* SIGMOD 2022. [Paper Link]([https://doi.org/10.1145/3604437.3604462](https://doi.org/10.1145/3514221.3517844))
 
 1. **DPXPlain: Privately Explaining Aggregate Query Answers** *Yuchao Tao, Amir Gilad, Ashwin Machanavajjhala, Sudeepa Roy.*  Proc. VLDB Endow. 16(1): 113-126 (2022). [Paper Link](https://www.vldb.org/pvldb/vol16/p113-tao.pdf)
 
@@ -139,7 +139,7 @@
 
 1. **Laconic Private Set-Intersection From Pairings** *Diego F. Aranha, Chuanwei Lin, Claudio Orlandi, Mark Simkin.* CCS 2022. [Paper Link](https://doi.org/10.1145/3548606.3560642)
 
-1. **Towards Practical Data Alignment in Production Federated Learning** *Yexuan Shi, Wei Yu, Yuanyuan Zhang, Chunbo Xue, Yuxiang Zeng,Zimu Zhou, Manxue Guo, Lun Xin, Wenjing Nie.* Front. Comput. Sci., 2024, 0(0): 1–18. [Paper Link](./paper/FCS_PSI.pdf)
+1. **Towards Practical Data Alignment in Production Federated Learning** *Yexuan Shi, Wei Yu, Yuanyuan Zhang, Chunbo Xue, Yuxiang Zeng, Zimu Zhou, Manxue Guo, Lun Xin, Wenjing Nie.* Front. Comput. Sci., 2024, 1(1): 1–18. [Paper Link](./paper/FCS_PSI.pdf)
 
 #### 5.2 Encryption Meets Federated Learning
 
