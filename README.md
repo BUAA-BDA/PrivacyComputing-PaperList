@@ -120,7 +120,7 @@
 
 1. **Federated Latent Dirichlet Allocation: A Local Differential Privacy Based Framework** *Yansheng Wang, Yongxin Tong, Dingyuan Shi.*  AAAI 2020. [Paper Link](https://doi.org/10.1609/aaai.v34i04.6096)
 
-#### 4.3 Differential Privacy Meets Federated Learning
+#### 4.3 Differential Privacy Based Federated Learning
 1. **Differential Privacy in HyperNetworks for Personalized Federated Learning** *Vaisnavi Nemala, Phung Lai, NhatHai Phan.* CIKM 2023: 4224-4228. [Paper Link](https://doi.org/10.1145/3583780.3615203)
 
 1. **Personalized Differentially Private Federated Learning without Exposing Privacy Budgets** *Junxu Liu, Jian Lou, Li Xiong, Xiaofeng Meng.* CIKM 2023: 4140-4144. [Paper Link](https://doi.org/10.1145/3583780.3615247)
@@ -141,7 +141,7 @@
 
 1. **Towards Practical Data Alignment in Production Federated Learning** *Yexuan Shi, Wei Yu, Yuanyuan Zhang, Chunbo Xue, Yuxiang Zeng,Zimu Zhou, Manxue Guo, Lun Xin, Wenjing Nie.* Front. Comput. Sci., 2024, 0(0): 1–18. [Paper Link](./paper/FCS_PSI.pdf)
 
-#### 5.2 Encryption Meets Federated Learning
+#### 5.2 Encryption Based Federated Learning
 
 1. **A Multi-Modal Vertical Federated Learning Framework Based on Homomorphic Encryption** *Maoguo Gong, Yuanqiao Zhang, Yuan Gao, A. Kai Qin, Yue Wu, Shanfeng Wang, Yihong Zhang.*  IEEE Trans. Inf. Forensics Secur. 19: 1826-1839 (2024) [Paper Link](https://doi.org/10.1109/TIFS.2023.3340994)
 
