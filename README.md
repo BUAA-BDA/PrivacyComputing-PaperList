@@ -53,7 +53,7 @@
 
 ### 2. Large Language Model
 
-#### 2.1 Security & Privacy issues in LLM: PART-A
+#### 2.1 Security & Privacy issues in LLM
 1. **A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly** *Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Eric Sun, Yue Zhang.* CoRR abs/2312.02003 (2023). [Paper Link](https://arxiv.org/abs/2312.02003)
 
 1. **Security and Privacy Challenges of Large Language Models: A Survey** *Badhan Chandra Das, M. Hadi Amini, Yanzhao Wu.*  CoRR abs/2402.00888 (2024). [Paper Link](https://arxiv.org/abs/2402.00888)
@@ -63,15 +63,6 @@
 1. **LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformer** *Xuanqi Liu, Zhuotao Liu.* CoRR abs/2305.18396 (2023). [Paper Link](https://arxiv.org/abs/2305.18396)
 
 #### 2.2 Security & Privacy issues in LLM: PART-B
-1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** *Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu.* CoRR abs/2310.12214 (2023). [Paper Link](https://arxiv.org/abs/2310.12214)
-
-1. **SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models** *Jinglong Luo, Yehong Zhang, Jiaqi Zhang, Xin Mu, Hui Wang, Yue Yu, Zenglin Xu.* CoRR abs/2401.00793 (2024). [Paper Link](https://arxiv.org/abs/2401.00793)
-
-1. **PrivateLoRA For Efficient Privacy Preserving LLM** *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang.* CoRR abs/2311.14030 (2023).  [Paper Link](https://arxiv.org/abs/2311.14030)
-
-1. **Privacy-Preserving Prompt Tuning for Large Language Model Services** *Yansong Li, Zhixing Tan, Yang Liu.* CoRR abs/2305.06212 (2023). [Paper Link](https://arxiv.org/abs/2305.06212)
-
-#### 2.3 Security & Privacy issues in LLM: PART-C
 1. **Just Fine-tune Twice: Selective Differential Privacy for Large Language Models** *Weiyan Shi, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu.*  EMNLP 2022. [Paper Link](https://doi.org/10.18653/v1/2022.emnlp-main.425)
 
 1. **EW-Tune: A Framework for Privately Fine-Tuning Large Language Models with Differential Privacy** *Rouzbeh Behnia, MohammadReza Ebrahimi, Jason Pacheco, Balaji Padmanabhan.* ICDM (Workshops) 2022: 560-566. [Paper Link](https://doi.org/10.1109/ICDMW58026.2022.00078)
@@ -79,6 +70,15 @@
 1. **Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants** *Gustavo Sandoval, Hammond Pearce, Teo Nys, Ramesh Karri, Siddharth Garg, Brendan Dolan-Gavitt.* USENIX Security Symposium 2023: 2205-2222. [Paper Link](https://www.usenix.org/conference/usenixsecurity23/presentation/sandoval)
 
 1. **Large Language Models for Code: Security Hardening and Adversarial Testing** *Jingxuan He, Martin T. Vechev.*  CCS 2023: 1865-1879. [Paper Link](https://doi.org/10.1145/3576915.3623175)
+
+#### 2.3 Privacy-Preserving Inference & Tuning in LLM
+1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** *Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu.* CoRR abs/2310.12214 (2023). [Paper Link](https://arxiv.org/abs/2310.12214)
+
+1. **SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models** *Jinglong Luo, Yehong Zhang, Jiaqi Zhang, Xin Mu, Hui Wang, Yue Yu, Zenglin Xu.* CoRR abs/2401.00793 (2024). [Paper Link](https://arxiv.org/abs/2401.00793)
+
+1. **PrivateLoRA For Efficient Privacy Preserving LLM** *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang.* CoRR abs/2311.14030 (2023).  [Paper Link](https://arxiv.org/abs/2311.14030)
+
+1. **Privacy-Preserving Prompt Tuning for Large Language Model Services** *Yansong Li, Zhixing Tan, Yang Liu.* CoRR abs/2305.06212 (2023). [Paper Link](https://arxiv.org/abs/2305.06212)
 
 ### 3. Privacy-Preserving Data Analytics
 
