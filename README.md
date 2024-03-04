@@ -62,7 +62,8 @@
 
 1. **LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformer** *Xuanqi Liu, Zhuotao Liu.* CoRR abs/2305.18396 (2023). [Paper Link](https://arxiv.org/abs/2305.18396)
 
-#### 2.2 Security & Privacy issues in LLM: PART-B
+#### 2.2 Privacy-Preserving Inference in LLM
+
 1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** *Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu.* CoRR abs/2310.12214 (2023). [Paper Link](https://arxiv.org/abs/2310.12214)
 
 1. **SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models** *Jinglong Luo, Yehong Zhang, Jiaqi Zhang, Xin Mu, Hui Wang, Yue Yu, Zenglin Xu.* CoRR abs/2401.00793 (2024). [Paper Link](https://arxiv.org/abs/2401.00793)
@@ -72,11 +73,8 @@
 1. **DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models** *Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, Zidi Xiong, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.* NeurIPS 2023. [Paper Link](http://papers.nips.cc/paper_files/paper/2023/hash/63cb9921eecf51bfad27a99b2c53dd6d-Abstract-Datasets_and_Benchmarks.html)
 
 
-
-#### 2.3 Privacy-Preserving Inference & Tuning in LLM
-
-
 #### 2.3 Privacy-Preserving Tuning in LLM
+
 1. **PrivateLoRA For Efficient Privacy Preserving LLM** *Yiming Wang, Yu Lin, Xiaodong Zeng, Guannan Zhang.* CoRR abs/2311.14030 (2023).  [Paper Link](https://arxiv.org/abs/2311.14030)
 
 1. **Privacy-Preserving Prompt Tuning for Large Language Model Services** *Yansong Li, Zhixing Tan, Yang Liu.* CoRR abs/2305.06212 (2023). [Paper Link](https://arxiv.org/abs/2305.06212)
