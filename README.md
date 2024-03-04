@@ -105,7 +105,7 @@
 
 1. **Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to Dispatch** *Yansheng Wang, Yongxin Tong, Zimu Zhou, Ziyao Ren, Yi Xu, Guobin Wu, Weifeng Lv.*  KDD 2022. [Paper Link](https://doi.org/10.1145/3534678.3539047)
 
-#### 3.2 Private Queries and SMC marry DP
+#### 3.2 Privacy-Preserving Query Processing
 1. **Longshot: Indexing Growing Databases using MPC and Differential Privacy** *Yanping Zhang, Johes Bater, Kartik Nayak, Ashwin Machanavajjhala.*  Proc. VLDB Endow. 16(8): 2005-2018 (2023). [Paper Link](https://www.vldb.org/pvldb/vol16/p2005-zhang.pdf)
 
 1. **R2T: Instance-optimal Truncation for Differentially Private Query Evaluation with Foreign Keys** *Wei Dong, Juanru Fang, Ke Yi, Yuchao Tao, Ashwin Machanavajjhala.* SIGMOD 2022. [Paper Link]([https://doi.org/10.1145/3604437.3604462](https://doi.org/10.1145/3514221.3517844))
