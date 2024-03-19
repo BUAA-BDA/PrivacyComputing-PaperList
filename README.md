@@ -31,7 +31,7 @@
 
 1. **Personalized Federated Learning with Feature Alignment and Classifier Collaboration** *Jian Xu, Xinyi Tong, Shao-Lun Huang.* ICLR 2023.  [Paper Link](https://openreview.net/pdf?id=SXZr8aDKia)
 
-#### 1.2 Federated Graph Neural Network
+#### 1.2 Federated Graph Neural Network:Part A
 
 1. **Automated Graph Neural Network Search Under Federated Learning Framework** *Chunnan Wang, Bozhou Chen, Geng Li, Hongzhi Wang.* TKDE 2023. [Paper Link](https://ieeexplore.ieee.org/document/10056291)
 
