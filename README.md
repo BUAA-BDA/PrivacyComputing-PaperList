@@ -77,7 +77,7 @@
 
 ### 2. Large Language Model
 
-#### 2.1 Security & Privacy issues in LLM
+#### 2.1 Security & Privacy issues in LLM:Part A
 1. **A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly** *Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Eric Sun, Yue Zhang.* CoRR abs/2312.02003 (2023). [Paper Link](https://arxiv.org/abs/2312.02003)
 
 1. **Security and Privacy Challenges of Large Language Models: A Survey** *Badhan Chandra Das, M. Hadi Amini, Yanzhao Wu.*  CoRR abs/2402.00888 (2024). [Paper Link](https://arxiv.org/abs/2402.00888)
@@ -86,7 +86,7 @@
 
 1. **LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformer** *Xuanqi Liu, Zhuotao Liu.* CoRR abs/2305.18396 (2023). [Paper Link](https://arxiv.org/abs/2305.18396)
 
-#### 2.2 Privacy-Preserving Inference in LLM
+#### 2.2 Security & Privacy issues in LLM:Part B
 
 1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** *Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu.* CoRR abs/2310.12214 (2023). [Paper Link](https://arxiv.org/abs/2310.12214)
 
@@ -169,7 +169,7 @@
 
 ### 5. Secure Multi-party Computation & Encryption
 
-#### 5.1 Private Set Intersection
+#### 5.1 Private Set Intersection:Part A
 
 1. **Differentially Private Set Intersection for Asymmetrical ID Alignment** *Zitao Li, Tianhao Wang, Ninghui Li.*  Proc. VLDB Endow. 16(6): 1277-1290 (2023) [Paper Link](https://doi.org/10.1109/TIFS.2022.3207911)
 
@@ -188,3 +188,14 @@
 1. **CryptoFE: Practical and Privacy-Preserving Federated Learning via Functional Encryption** *Xinyuan Qian, Hongwei Li, Meng Hao, Shuai Yuan, Xilin Zhang, Song Guo.* GLOBECOM 2022. [Paper Link](https://doi.org/10.1109/GLOBECOM48099.2022.10001080)
 
 1. **BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning** *Chengliang Zhang, Suyi Li, Junzhe Xia, Wei Wang, Feng Yan, Yang Liu.*  USENIX Annual Technical Conference 2020. [Paper Link](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang)
+
+#### 5.3 Private Set Intersection:Part A
+
+1. **Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection** *Florian Kerschbaum, Erik-Oliver Blass, Rasoul Akhavan Mahdavi.*  NDSS 2023. [Paper Link](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
+
+1. **Efficient Private Multiset ID protocols** *Cong Zhang, Weiran Liu, Bolin Ding, Dongdai Lin.*   ICICS 2023: 351-369. [Paper Link](https://doi.org/10.1007/978-981-99-7356-9_21)
+
+1. **Split, count, and share: a differentially private set intersection cardinality estimation protocol** *Michael Purcell, Yang Li, Kee Siong Ng.*  UAI 2023: 1684-1694. [Paper Link](https://proceedings.mlr.press/v216/purcell23a.html)
+
+1. **Distance-Aware Private Set Intersection** *Anrin Chakraborti, Giulia Fanti, Michael K. Reiter.*  USENIX Security Symposium 2023: 319-336. [Paper Link](https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti-intersection)
+
