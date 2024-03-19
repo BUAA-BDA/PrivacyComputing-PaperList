@@ -22,7 +22,7 @@
 
 ###  1. Federated Learning
 
-#### 1.1 Personalized Federated Learning
+#### 1.1 Personalized Federated Learning:Part A
 1. **DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization** *Wenhao Zhang, Zimu Zhou, Yansheng Wang, Yongxin Tong.* KDD 2023. [Paper Link](https://doi.org/10.1145/3580305.3599311)
 
 1. **FedALA: Adaptive Local Aggregation for Personalized Federated Learning** *Jianqing Zhang, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan.*  AAAI 2023. [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/26330)
@@ -50,6 +50,30 @@
 1. **Robust and Secure Federated Learning Against Hybrid Attacks: A Generic Architecture** *Xiaohan Hao, Chao Lin, Wenhan Dong, Xinyi Huang, Hui Xiong.*  IEEE Trans. Inf. Forensics Secur. [Paper Link](https://ieeexplore.ieee.org/document/10328586)
 
 1. **Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach** *Kai Li, Jingjing Zheng, Xin Yuan, Wei Ni, Özgür B. Akan, H. Vincent Poor.* IEEE Trans. Inf. Forensics Secur. [Paper Link](https://ieeexplore.ieee.org/document/10419367)
+
+#### 1.4 Personalized Federated Learning:Part B
+
+1. **EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control** *Xiaochen Li, Sicong Liu, Zimu Zhou, Bin Guo, Yuan Xu, Zhiwen Yu.* Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8(1): 41:1-41:22 (2024). [Paper Link](https://doi.org/10.1145/3643560)
+
+1. **Hierarchical Clustering-based Personalized Federated Learning for Robust and Fair Human Activity Recognition** *Youpeng Li, Xuyu Wang, Lingling An.* Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 7(1): 20:1-20:38 (2023). [Paper Link](https://doi.org/10.1145/3580795)
+
+1. **Personalized Federated Learning With Differential Privacy and Convergence Guarantee** *Kang Wei, Jun Li, Chuan Ma, Ming Ding, Wen Chen, Jun Wu, Meixia Tao, H. Vincent Poor.* IEEE Trans. Inf. Forensics Secur. 18: 4488-4503 (2023). [Paper Link](https://doi.org/10.1109/TIFS.2023.3293417)
+
+1. **Towards Personalized Federated Learning. IEEE Trans. Neural Networks Learn** *Alysa Ziying Tan, Han Yu, Lizhen Cui, Qiang Yang.*  IEEE Trans. Neural Networks Learn. Syst. 34(12): 9587-9603 (2023). [Paper Link](https://doi.org/10.1109/TNNLS.2022.3160699)
+
+#### 1.5 Federated Graph Neural Network:Part B
+
+1. **FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks** *Yuhang Yao, Weizhao Jin, Srivatsan Ravi, Carlee Joe-Wong.*   NeurIPS 2023. [Paper Link](http://papers.nips.cc/paper_files/paper/2023/hash/fc07feae9af49dd3f1a1e049b77f4e17-Abstract-Conference.html)
+
+
+1. **Bkd-FedGNN: A Benchmark for Classification Backdoor Attacks on Federated Graph Neural Network** 
+*Fan Liu, Siqi Lai, Yansong Ning, Hao Liu.*  CoRR abs/2306.10351 (2023).  [Paper Link](https://doi.org/10.48550/arXiv.2306.10351)
+
+1. **No prejudice! Fair Federated Graph Neural Networks for Personalized Recommendation** 
+*Nimesh Agrawal, Anuj Kumar Sirohi, Jayadeva, Sandeep Kumar.*  CoRR abs/2312.10080 (2023).  [Paper Link](https://doi.org/10.48550/arXiv.2312.10080)
+
+1. **Federated Graph Neural Networks: Overview, Techniques and Challenges** 
+*Rui Liu, Han Yu.*   CoRR abs/2202.07256 (2022).  [Paper Link](https://arxiv.org/abs/2202.07256)
 
 ### 2. Large Language Model
 
