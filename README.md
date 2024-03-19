@@ -189,7 +189,7 @@
 
 1. **BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning** *Chengliang Zhang, Suyi Li, Junzhe Xia, Wei Wang, Feng Yan, Yang Liu.*  USENIX Annual Technical Conference 2020. [Paper Link](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang)
 
-#### 5.3 Private Set Intersection:Part A
+#### 5.3 Private Set Intersection:Part B
 
 1. **Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection** *Florian Kerschbaum, Erik-Oliver Blass, Rasoul Akhavan Mahdavi.*  NDSS 2023. [Paper Link](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
 
