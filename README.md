@@ -22,7 +22,7 @@
 
 ###  1. Federated Learning
 
-#### 1.1 Personalized Federated Learning:Part A
+#### 1.1 Personalized Federated Learning: Part A
 1. **DM-PFL: Hitchhiking Generic Federated Learning for Efficient Shift-Robust Personalization** *Wenhao Zhang, Zimu Zhou, Yansheng Wang, Yongxin Tong.* KDD 2023. [Paper Link](https://doi.org/10.1145/3580305.3599311)
 
 1. **FedALA: Adaptive Local Aggregation for Personalized Federated Learning** *Jianqing Zhang, Yang Hua, Hao Wang, Tao Song, Zhengui Xue, Ruhui Ma, Haibing Guan.*  AAAI 2023. [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/26330)
@@ -31,7 +31,7 @@
 
 1. **Personalized Federated Learning with Feature Alignment and Classifier Collaboration** *Jian Xu, Xinyi Tong, Shao-Lun Huang.* ICLR 2023.  [Paper Link](https://openreview.net/pdf?id=SXZr8aDKia)
 
-#### 1.2 Federated Graph Neural Network:Part A
+#### 1.2 Federated Graph Neural Network: Part A
 
 1. **Automated Graph Neural Network Search Under Federated Learning Framework** *Chunnan Wang, Bozhou Chen, Geng Li, Hongzhi Wang.* TKDE 2023. [Paper Link](https://ieeexplore.ieee.org/document/10056291)
 
@@ -51,7 +51,7 @@
 
 1. **Data-Agnostic Model Poisoning Against Federated Learning: A Graph Autoencoder Approach** *Kai Li, Jingjing Zheng, Xin Yuan, Wei Ni, Özgür B. Akan, H. Vincent Poor.* IEEE Trans. Inf. Forensics Secur. [Paper Link](https://ieeexplore.ieee.org/document/10419367)
 
-#### 1.4 Personalized Federated Learning:Part B
+#### 1.4 Personalized Federated Learning: Part B
 
 1. **EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control** *Xiaochen Li, Sicong Liu, Zimu Zhou, Bin Guo, Yuan Xu, Zhiwen Yu.* Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8(1): 41:1-41:22 (2024). [Paper Link](https://doi.org/10.1145/3643560)
 
@@ -61,7 +61,7 @@
 
 1. **Towards Personalized Federated Learning. IEEE Trans. Neural Networks Learn** *Alysa Ziying Tan, Han Yu, Lizhen Cui, Qiang Yang.*  IEEE Trans. Neural Networks Learn. Syst. 34(12): 9587-9603 (2023). [Paper Link](https://doi.org/10.1109/TNNLS.2022.3160699)
 
-#### 1.5 Federated Graph Neural Network:Part B
+#### 1.5 Federated Graph Neural Network: Part B
 
 1. **FedGCN: Convergence-Communication Tradeoffs in Federated Training of Graph Convolutional Networks** *Yuhang Yao, Weizhao Jin, Srivatsan Ravi, Carlee Joe-Wong.*   NeurIPS 2023. [Paper Link](http://papers.nips.cc/paper_files/paper/2023/hash/fc07feae9af49dd3f1a1e049b77f4e17-Abstract-Conference.html)
 
@@ -77,7 +77,7 @@
 
 ### 2. Large Language Model
 
-#### 2.1 Security & Privacy issues in LLM:Part A
+#### 2.1 Security & Privacy issues in LLM: Part A
 1. **A Survey on Large Language Model (LLM) Security and Privacy: The Good the Bad and the Ugly** *Yifan Yao, Jinhao Duan, Kaidi Xu, Yuanfang Cai, Eric Sun, Yue Zhang.* CoRR abs/2312.02003 (2023). [Paper Link](https://arxiv.org/abs/2312.02003)
 
 1. **Security and Privacy Challenges of Large Language Models: A Survey** *Badhan Chandra Das, M. Hadi Amini, Yanzhao Wu.*  CoRR abs/2402.00888 (2024). [Paper Link](https://arxiv.org/abs/2402.00888)
@@ -86,7 +86,7 @@
 
 1. **LLMs Can Understand Encrypted Prompt: Towards Privacy-Computing Friendly Transformer** *Xuanqi Liu, Zhuotao Liu.* CoRR abs/2305.18396 (2023). [Paper Link](https://arxiv.org/abs/2305.18396)
 
-#### 2.2 Security & Privacy issues in LLM:Part B
+#### 2.2 Security & Privacy issues in LLM: Part B
 
 1. **PrivInfer: Privacy-Preserving Inference for Black-box Large Language Model** *Meng Tong, Kejiang Chen, Yuang Qi, Jie Zhang, Weiming Zhang, Nenghai Yu.* CoRR abs/2310.12214 (2023). [Paper Link](https://arxiv.org/abs/2310.12214)
 
@@ -169,7 +169,7 @@
 
 ### 5. Secure Multi-party Computation & Encryption
 
-#### 5.1 Private Set Intersection:Part A
+#### 5.1 Private Set Intersection: Part A
 
 1. **Differentially Private Set Intersection for Asymmetrical ID Alignment** *Zitao Li, Tianhao Wang, Ninghui Li.*  Proc. VLDB Endow. 16(6): 1277-1290 (2023) [Paper Link](https://doi.org/10.1109/TIFS.2022.3207911)
 
@@ -189,7 +189,7 @@
 
 1. **BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning** *Chengliang Zhang, Suyi Li, Junzhe Xia, Wei Wang, Feng Yan, Yang Liu.*  USENIX Annual Technical Conference 2020. [Paper Link](https://www.usenix.org/conference/atc20/presentation/zhang-chengliang)
 
-#### 5.3 Private Set Intersection:Part B
+#### 5.3 Private Set Intersection: Part B
 
 1. **Faster Secure Comparisons with Offline Phase for Efficient Private Set Intersection** *Florian Kerschbaum, Erik-Oliver Blass, Rasoul Akhavan Mahdavi.*  NDSS 2023. [Paper Link](https://www.ndss-symposium.org/ndss-paper/faster-secure-comparisons-with-offline-phase-for-efficient-private-set-intersection/)
 
